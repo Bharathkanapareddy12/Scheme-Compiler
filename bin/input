@@ -1,0 +1,4 @@
+(define square-lambda (lambda (x) (* x x)))
+(display "Lambda Expression Output: ")
+(display (square-lambda 6))
+(newline)
